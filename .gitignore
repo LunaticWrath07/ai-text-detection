@@ -1,0 +1,10 @@
+data/
+outputs/models/
+outputs/predictions/
+__pycache__/
+*.joblib
+*.bak
+*.pt
+*.safetensors
+venv/
+.venv/
